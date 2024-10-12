@@ -9,3 +9,4 @@ Shell
     ├── test.list
     ├── train.list
 ```
+<img src='./figures/flow.png' width=400>
