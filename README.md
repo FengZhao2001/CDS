@@ -10,3 +10,5 @@ Shell
     ├── train.list
 ```
 <img src='./figures/flow.png' width=1000>
+
+<img src='./figures/result_1.png' width=500><img src='./figures/result_2.png' width=500>
