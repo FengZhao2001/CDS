@@ -16,4 +16,7 @@ Shell
 ```
 ## :notebook: Results
 <img src='./figures/result_1.png' width=400><img src='./figures/result_2.png' width=400>
-
+## :heartpulse: Acknowledgements
+We use code from [SSL4MIS](https://github.com/HiLab-git/SSL4MIS).
+## :card_index: Contact
+If you have any questions, please create an issue on this repository or contact at [zhaofeng_xut@163.com](mailto:zhaofeng_xut@163.com).
