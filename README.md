@@ -1,4 +1,9 @@
 ## Competitive dual-students using bi-level contrastive learning for semi-supervised medical image segmentation
+
+<img src='./figures/flow.png' width=1000>
+
+## :credit_card: Dataset 
+
 ```
 Shell
 ├── data
@@ -9,6 +14,6 @@ Shell
     ├── test.list
     ├── train.list
 ```
-<img src='./figures/flow.png' width=1000>
-
+## :notebook: Results
 <img src='./figures/result_1.png' width=400><img src='./figures/result_2.png' width=400>
+
